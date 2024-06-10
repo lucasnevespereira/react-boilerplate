@@ -4,7 +4,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div className='app bg-background text-foreground min-h-screen flex flex-col justify-between'>
+    <div className='app text-foreground min-h-screen flex flex-col justify-between'>
       <Header />
       <main>
         <p>toto</p>
