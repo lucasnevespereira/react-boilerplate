@@ -1,4 +1,9 @@
 {
-  "title": "Sample App",
-  "welcome": "Welcome to Sample App"
+  "title": "React Boilerplate",
+  "welcome": "Simple boilerplate for React applications",
+  "login": "Sign in",
+  "register": "Sign up",
+  "logout": "Logout",
+  "profile": "Profile",
+  "settings": "Settings"
 }
